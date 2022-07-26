@@ -456,7 +456,7 @@
     justify-content: center;
     align-items: center;
   }
- cursor.mini{
+ #cursor{
     /* transform: scale(0.1); */
     cursor: none;
 } 
