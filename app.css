@@ -459,6 +459,7 @@
  #cursor{
     /* transform: scale(0.1); */
     cursor: none;
+  display: none;
 } 
   
 }
